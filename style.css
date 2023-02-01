@@ -53,3 +53,23 @@
 .about-parent{
     margin: 50px 50px 0px;
 }
+.child-div{
+    display: flex;
+    justify-content: space-around;
+}
+.card{
+    height: 200px;
+    cursor: pointer;
+    border: 1px solid lightgray;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background: aliceblue;
+}
+.icon{
+    font-size: 24px !important;
+    color: red;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
