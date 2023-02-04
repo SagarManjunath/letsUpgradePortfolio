@@ -119,3 +119,11 @@ body{
     border: none;
     cursor: pointer;
 }
+.footer{
+    display: flex;
+    justify-content: center;
+    background: aquamarine;
+    height: 40px;
+    align-items: center;
+    width: 100%;
+}
