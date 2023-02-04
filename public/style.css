@@ -104,18 +104,3 @@ body{
     padding: 5px;
     border-radius: 2px;
 }
-.form-fields{
-    margin: 25px;
-    width: 100%;
-    padding: 10px;
-    height: 20px;
-}
-.submit-btn{
-    margin: 25px;
-    height: 40px;
-    background: green;
-    color: white;
-    font-size: 20px;
-    border: none;
-    cursor: pointer;
-}
